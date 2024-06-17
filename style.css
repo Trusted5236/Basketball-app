@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main{
+    background-image: url("photo-1574623452334-1e0ac2b3ccb4.avif");
+    background-size: cover;
+}
+
+h3 {
+    font-family: Verdana;
+font-size: 40px;
+font-weight: 700;
+line-height: 35.89px;
+text-align: center;
+width: 149px;
+height: 36px;
+color: #F94F6D;
+}
+
+#guest-score{
+border-radius: 5px 0px 0px 0px;
+font-family: Cursed Timer ULiL;
+font-size: 90px;
+font-weight: 400;
+line-height: 126.67px;
+text-align: center;
+background: #080001;
+color: #F94F6D;
+}
+
+#home-score{
+    border-radius: 5px 0px 0px 0px;
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 126.67px;
+    text-align: center;
+    background: #080001;
+    color: #F94F6D; 
+}
+
+button {
+    font-family: Cursed Timer ULiL;
+font-size: 18px;
+font-weight: 400;
+line-height: 27.81px;
+text-align: center;
+height: 45px;
+top: 271px;
+left: 337px;
+border-radius: 5px 0px 0px 0px;
+border: 2px 0px 0px 0px;
+border: 2px solid #9AABD8;
+background: #9AABD8;
+}
+
+#reset-btn1 {
+    margin-top: 10px;
+}
+
